@@ -13,4 +13,4 @@ let g:syntastic_quiet_messages = { "type": "style" }
 
 let g:syntastic_enable_highlighting = 0
 
-nnoremap <C-D> :NERDTreeToggle<CR> 
+nnoremap <F4> :NERDTreeToggle<CR> 
