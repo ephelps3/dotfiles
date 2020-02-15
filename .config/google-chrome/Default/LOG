@@ -1,0 +1,37 @@
+2020/01/26-19:52:36.675 3bfa Delete type=3 #1
+2020/01/28-21:43:43.416 39ed Level-0 table #5: started
+2020/01/28-21:43:44.013 39ed Level-0 table #5: 14462 bytes OK
+2020/01/28-21:43:44.189 39ed Delete type=0 #3
+2020/01/28-21:44:12.455 39ed Level-0 table #7: started
+2020/01/28-21:44:12.591 39ed Level-0 table #7: 15946 bytes OK
+2020/01/28-21:44:12.679 39ed Delete type=0 #4
+2020/01/28-21:44:41.502 39ed Level-0 table #9: started
+2020/01/28-21:44:41.620 39ed Level-0 table #9: 15921 bytes OK
+2020/01/28-21:44:41.696 39ed Delete type=0 #6
+2020/01/28-21:45:10.548 39ed Level-0 table #11: started
+2020/01/28-21:45:10.694 39ed Level-0 table #11: 15920 bytes OK
+2020/01/28-21:45:10.783 39ed Delete type=0 #8
+2020/01/28-21:45:39.600 39ed Level-0 table #13: started
+2020/01/28-21:45:39.718 39ed Level-0 table #13: 15898 bytes OK
+2020/01/28-21:45:39.794 39ed Delete type=0 #10
+2020/01/28-21:46:08.654 39ed Level-0 table #15: started
+2020/01/28-21:46:08.796 39ed Level-0 table #15: 15895 bytes OK
+2020/01/28-21:46:08.885 39ed Delete type=0 #12
+2020/01/28-21:46:08.885 39ed Compacting 4@0 + 1@1 files
+2020/01/28-21:46:08.954 39ed Generated table #16@0: 1 keys, 968 bytes
+2020/01/28-21:46:08.954 39ed Compacted 4@0 + 1@1 files => 968 bytes
+2020/01/28-21:46:09.042 39ed compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/01/28-21:46:09.043 39ed Delete type=2 #13
+2020/01/28-21:46:09.043 39ed Delete type=2 #11
+2020/01/28-21:46:09.043 39ed Delete type=2 #7
+2020/01/28-21:46:09.043 39ed Delete type=2 #9
+2020/01/28-21:46:09.043 39ed Delete type=2 #15
+2020/01/28-21:46:37.708 39ed Level-0 table #18: started
+2020/01/28-21:46:37.845 39ed Level-0 table #18: 15909 bytes OK
+2020/01/28-21:46:37.934 39ed Delete type=0 #14
+2020/01/28-21:47:06.758 39ed Level-0 table #20: started
+2020/01/28-21:47:06.835 39ed Level-0 table #20: 15923 bytes OK
+2020/01/28-21:47:06.886 39ed Delete type=0 #17
+2020/01/28-21:47:35.808 39ed Level-0 table #22: started
+2020/01/28-21:47:35.925 39ed Level-0 table #22: 15955 bytes OK
+2020/01/28-21:47:36.013 39ed Delete type=0 #19

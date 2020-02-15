@@ -1,0 +1,22 @@
+2020/02/15-09:32:34.399 413b Reusing MANIFEST /home/ej/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/02/15-09:32:34.400 413b Recovering log #147
+2020/02/15-09:32:37.396 413b Level-0 table #150: started
+2020/02/15-09:32:37.764 413b Level-0 table #150: 4919657 bytes OK
+2020/02/15-09:32:39.813 413b Delete type=0 #147
+2020/02/15-09:33:33.893 4397 Level-0 table #153: started
+2020/02/15-09:33:34.437 4397 Level-0 table #153: 4919749 bytes OK
+2020/02/15-09:33:34.896 4397 Delete type=0 #151
+2020/02/15-09:33:34.899 4397 Compacting 4@0 + 2@1 files
+2020/02/15-09:33:35.447 4397 Generated table #154@0: 1 keys, 4919664 bytes
+2020/02/15-09:33:35.547 4397 Generated table #155@0: 7 keys, 523 bytes
+2020/02/15-09:33:35.547 4397 Compacted 4@0 + 2@1 files => 4920187 bytes
+2020/02/15-09:33:35.697 4397 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/15-09:33:35.697 4397 Delete type=2 #150
+2020/02/15-09:33:35.697 4397 Delete type=2 #143
+2020/02/15-09:33:35.697 4397 Delete type=2 #146
+2020/02/15-09:33:35.697 4397 Delete type=2 #142
+2020/02/15-09:33:35.698 4397 Delete type=2 #153
+2020/02/15-09:33:35.698 4397 Delete type=2 #148
+2020/02/15-09:33:49.348 4397 Level-0 table #157: started
+2020/02/15-09:33:49.580 4397 Level-0 table #157: 4919956 bytes OK
+2020/02/15-09:33:49.632 4397 Delete type=0 #152
